@@ -1,0 +1,30 @@
+body{
+
+	background-color:	#3c3c3c;
+
+}
+
+.panel-primary > .panel-heading{
+
+	background-color:#779ECB;
+	border-color:#779ECB;
+
+}
+
+.panel-primary{
+	border-color:#779ECB;
+}
+.navbar.navbar-default{
+	background-color:rgb(27, 21, 29);
+	border:0;
+	color:white !important;
+}
+
+.navbar-default .navbar-nav>a:hover{
+	background-color:rgb(10, 10, 9);
+	color:white !important;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+	background-color:rgb(10, 10, 9);
+	color:white !important;
+}
