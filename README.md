@@ -1,6 +1,9 @@
 # EchoFrameWork
 Open-Source PHP Admin Panel And Web Site FrameWork
 
+If you want reporting bugs or if i have missings, please report to this mail -> internot_mg@hotmail.com
+
+
 #Hello Programmer, Welcome to EchoFramework !
 İf you want get information framework about read this documentation !
 
