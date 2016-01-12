@@ -8,10 +8,10 @@ If you want reporting bugs or if i have missings, please report to this mail -> 
 İf you want get information framework about read this documentation !
 
 #Do you like this framework ?
-İf you like this framework system please donate me ^_^ (Thanks for donate)-> My Donate Link
+İf you like this framework system please donate me ^_^ (Thanks for donate)-> https://www.paypal.me/kadir
 
 #What is this ?
-This framework has very basic system. You can create plug-ins easier . -> Go to Document
+This framework has very basic system. You can create plug-ins easier . -> Go to Document (Coming Soon)
 
 #Credits
 Creator Kadir Fırat
